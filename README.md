@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**chaeeun-lee/chaeeun-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ChaeEun-Lee/chaeeun-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
